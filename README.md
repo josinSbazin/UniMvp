@@ -1,2 +1,2 @@
 # UniMvp
-Micro libraty for implementation MVP pattern in Unity
+Micro library for implementation MVP pattern in Unity
